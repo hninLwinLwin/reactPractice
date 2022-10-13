@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+.mainHeading{
+  font-family: 'Silkscreen', cursive;
+  position: absolute;
+  top: 20%;
+  left: 30%;
+  color: blue;
+}
+/* .inputMain{
+  position: absolute;
+  top: 30%;
+  left: 30%;
+} */
+.btn2{
+  position: absolute;
+  top: 40%;
+}
+.items{
+  position: absolute;
+  top: 50%;
+  left: 40%;
+}

@@ -1,0 +1,16 @@
+.calcBtns{
+ height: 90px;
+ width: 90px;
+ border-radius: 30px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size: 2rem;
+ background-color: #f4f1f1;
+ user-select: none;
+ box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #fff;
+}
+.res{
+  width: 180px;
+  background-color: orange;
+}
